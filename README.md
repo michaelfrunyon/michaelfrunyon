@@ -16,7 +16,7 @@
 
 ## 🧰 Tools & Languages
 
-- **Languages**: Swift · Python · Java  
+- **Languages (Learning)**: Swift · Python · Java  
 - **Tools**: XCUITest · Appium · TestRail · JIRA · Git  
 - **Platforms**: iOS · Android · Web  
 
