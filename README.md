@@ -22,6 +22,15 @@
 
 ---
 
+## 🎓 Certifications & Learning
+
+- Completed [Continuous Integration and Continuous Delivery with GitLab (LinkedIn Learning)](https://www.linkedin.com/learning/certificates/39262e28d08960b1c08669397981e5fd73836096abec977bd945517cd9b78d7c)
+- Completed [Git Essential Training (LinkedIn Learning)](https://www.linkedin.com/learning/certificates/0ec74211b6e05cdca893c32e8932d08bb8d87ae3a60a73d31f142707e695e13d)
+- Completed [API Testing Foundations (LinkedIn Learning)](https://www.linkedin.com/learning/certificates/583e2766d47d0cd4f4d8e8f317bee20ce23b8ba3130a7961b610197feba07754)
+- Completed [Learning SQL Programming (LinkedIn Learning)](https://www.linkedin.com/learning/certificates/721fd4ee6c1dfd9e0e4ac6c46cceabfd1b6811b0a17760fafeedbe1e0b7c643f)
+
+---
+
 ## 🤝 I'm Open to Collaborating On
 
 - iOS projects needing UI test coverage  
