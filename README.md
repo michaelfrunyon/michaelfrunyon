@@ -7,10 +7,17 @@
 
 ## 🚀 What I'm Working On
 
-- Writing UI tests in **XCUITest** to sharpen my iOS automation skills  
+- Writing UI tests in **XCUITest** to sharpen my iOS automation skills 
 - Exploring open source iOS projects to contribute meaningful test coverage  
 - Building a personal repo to showcase real-world test cases and strategies  
 - Sharing my automation journey — feel free to follow along!
+
+---
+
+## 📂 My Repositories
+
+- **HealthAppUITest** — Practice iOS UI tests built with XCUITest  
+  [github.com/michaelfrunyon/HealthAppUITestPractice](https://github.com/michaelfrunyon/HealthAppUITestPractice)
 
 ---
 
